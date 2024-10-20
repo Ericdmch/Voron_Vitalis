@@ -1,4 +1,4 @@
-# BioPrinter based on Voron 0.2
+# YuChen BioPrinter
 
 ## Overview
 
@@ -32,11 +32,7 @@ The BOM includes:
 
 ## Setup Instructions
 
-1. **Build the Voron 0.2 Frame**: Follow the official Voron 0.2 assembly guide to complete the printer frame and motion system.
-2. **Install Bio-Compatible Nozzle**: Replace the standard nozzle with the custom bio-printing nozzle.
-3. **Sterilization Preparation**: Ensure the build plate is set up for easy removal and sterilization between prints.
-4. **Set Up Climate Control**: Install the climate control system to regulate temperature and humidity in the print chamber.
-5. **Install Firmware**: Upload the modified firmware for bio-printing to the controller board.
+1. **Design the Frame First**: Deign it first
 
 ## Usage
 
@@ -44,12 +40,6 @@ The BOM includes:
 2. **Calibrate the Printer**: Run the calibration procedure to ensure accurate prints.
 3. **Start Printing**: Use the appropriate G-code for your bio-printing task, ensuring the proper climate control settings are enabled.
 4. **Post-Print**: Sterilize the build plate and nozzle after each print to maintain a clean printing environment.
-
-## Troubleshooting
-
-- **Inconsistent Print Quality**: Recalibrate the nozzle and ensure the material is flowing smoothly without clogs.
-- **Temperature Fluctuations**: Check the climate control system to make sure the set temperature and humidity levels are maintained.
-- **Sterilization Issues**: Verify that the sterilization process is complete and that all surfaces have been properly cleaned.
 
 ## License
 

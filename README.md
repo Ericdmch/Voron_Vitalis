@@ -41,6 +41,10 @@ The BOM includes:
 3. **Start Printing**: Use the appropriate G-code for your bio-printing task, ensuring the proper climate control settings are enabled.
 4. **Post-Print**: Sterilize the build plate and nozzle after each print to maintain a clean printing environment.
 
-## License
+**Useful Links**
 
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
+*Voron 0.2 References*
+
+[Voron 0.2 Github](https://github.com/VoronDesign/Voron-0)
+[Voron Design 0.2](https://vorondesign.com/voron0.2)
+[Voron 0.2 Manual](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)

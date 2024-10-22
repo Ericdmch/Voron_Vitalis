@@ -43,7 +43,7 @@ The BOM includes:
 
 **Useful Links**
 
-*Voron 0.2 References*
+**Voron 0.2 References**
 
 [Voron 0.2 Github](https://github.com/VoronDesign/Voron-0)
 [Voron Design 0.2](https://vorondesign.com/voron0.2)

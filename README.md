@@ -1,5 +1,8 @@
 # YuChen BioPrinter
 
+**Link to Main Spreadsheets**
+[Google Sheets](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing)
+
 ## Overview
 
 This project is a customized **BioPrinter** built on the **Voron 0.2** 3D printer platform. It is designed to perform bio-fabrication tasks such as printing biological materials or tissues. Leveraging the precision and reliability of the Voron design, this bio-printer offers a robust platform for a wide range of bio-printing applications.

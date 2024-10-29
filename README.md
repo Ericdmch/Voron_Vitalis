@@ -46,6 +46,9 @@ The BOM includes:
 
 **Useful Links**
 
+**CB2 Image**
+[Disk Image](https://github.com/bigtreetech/CB2/releases)
+
 **Voron 0.2 References**
 
 [Voron 0.2 Github](https://github.com/VoronDesign/Voron-0)

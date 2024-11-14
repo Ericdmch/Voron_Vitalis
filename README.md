@@ -20,11 +20,14 @@ This project is a customized **BioPrinter** built on the **Voron 0.2** 3D printe
 For a complete list of components required to build this BioPrinter, refer to the Bill of Materials available in this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing).
 
 The BOM includes:
-- **Voron 0.2 Frame Kit**: All mechanical parts for the Voron 0.2.
-- **Custom Bio-Compatible Nozzle**: Designed to handle bio-materials.
-- **Climate Control Components**: Sensors, fans, and other components to maintain a controlled printing environment.
-- **Electronics**: Microcontroller, stepper motors, and wiring for controlling the printer.
-- **Build Plate and Sterilization System**: Removable build plate for easy sterilization.
+- **Customized Voron Trident Frame**: Custom Voron Design Frame
+- **Voron 0.2 Z-Axis Assembly**: Voron 0.2 Z-Axis Assembly
+- **Custom Bio-Compatible Nozzle**: Designed to handle bio-materials
+- **Climate Control Components**: Sensors, fans, and other components to maintain a controlled printing environment
+- **Electronics**: Microcontroller, stepper motors, and wiring for controlling the printer
+- **Build Plate and Sterilization System**: Removable build plate for easy sterilization
+- **UV toolhead**: UV light toolhead to cure print
+[BOM Sheet](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing)
   
 ## Requirements
 
@@ -53,5 +56,10 @@ The BOM includes:
 **Voron 0.2 References**
 
 [Voron 0.2 Github](https://github.com/VoronDesign/Voron-0)
-[Voron Design 0.2](https://vorondesign.com/voron0.2)
+[Voron 0. Design](https://vorondesign.com/voron0.2)
 [Voron 0.2 Manual](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
+
+**Voron Trident References**
+[Voron Trident Github]()
+[Voron Trident Design]()
+[Voron Trident Manual]()

@@ -9,8 +9,7 @@ This project is a customized **BioPrinter** built on the **Voron 0.2** 3D printe
 
 ## Features
 
-- **High Precision Printing**: The Voron 0.2 platform ensures accurate, repeatable results with tight tolerances.
-- **Custom Nozzle for Bio-Materials**: Specially designed nozzle for handling bio-materials such as hydrogels and cell-laden inks.
+- **High Precision Printing**: The Voron platform ensures accurate, repeatable results with tight tolerances.
 - **Sterilizable Build Plate**: The build plate is modified to allow easy sterilization between prints to maintain a sterile environment.
 - **Climate Control**: Added control system to maintain an optimal temperature and humidity level in the print chamber.
 - **Easy Material Loading**: The system has been optimized for fast and sterile material loading, ensuring minimal contamination risks.
@@ -47,7 +46,7 @@ The BOM includes:
 3. **Start Printing**: Use the appropriate G-code for your bio-printing task, ensuring the proper climate control settings are enabled.
 4. **Post-Print**: Sterilize the build plate and nozzle after each print to maintain a clean printing environment.
 
-**Useful Links**
+## Useful Links
 
 **CB2 Image**
 
@@ -60,6 +59,7 @@ The BOM includes:
 [Voron 0.2 Manual](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
 
 **Voron Trident References**
-[Voron Trident Github]()
-[Voron Trident Design]()
-[Voron Trident Manual]()
+
+[Voron Trident Github](https://github.com/VoronDesign/Voron-Trident/tree/main)
+[Voron Trident Design](https://github.com/VoronDesign/Voron-Trident/tree/main/CAD)
+[Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)

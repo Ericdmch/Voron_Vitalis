@@ -65,4 +65,4 @@ The BOM includes:
 [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
 
 **Open Source Scientific Report**
-[An open source extrusion bioprinter based on the E3D motion system and tool changer to enable FRESH and multimaterial bioprinting](https://www.nature.com/articles/s41598-021-00931-1)
+[Open Source Bioprinter by Adam Engberg](https://www.nature.com/articles/s41598-021-00931-1)

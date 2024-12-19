@@ -65,4 +65,5 @@ The BOM includes:
 [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
 
 **Open Source Scientific Report**
+
 [Open Source Bioprinter by Adam Engberg](https://www.nature.com/articles/s41598-021-00931-1)

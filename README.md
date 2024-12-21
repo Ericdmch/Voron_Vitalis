@@ -63,3 +63,9 @@ The BOM includes:
 [Voron Trident Github](https://github.com/VoronDesign/Voron-Trident/tree/main)
 [Voron Trident Design](https://github.com/VoronDesign/Voron-Trident/tree/main/CAD)
 [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
+
+**Open Source Scientific Report**
+
+[Open Source Bioprinter by Adam Engberg](https://www.nature.com/articles/s41598-021-00931-1)
+
+[Voron 2.4 Frame/motors/hardware/linear rails](https://www.3dlabtech.ca/product/voron-2-starter-bundle-350mm/)

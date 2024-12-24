@@ -46,7 +46,7 @@ The BOM includes:
 3. **Start Printing**: Use the appropriate G-code for your bio-printing task, ensuring the proper climate control settings are enabled.
 4. **Post-Print**: Sterilize the build plate and nozzle after each print to maintain a clean printing environment.
 
-## Useful Links
+## References
 
 **CB2 Image**
 
@@ -58,11 +58,8 @@ The BOM includes:
 [Voron 0. Design](https://vorondesign.com/voron0.2)
 [Voron 0.2 Manual](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
 
-**Voron Trident References**
-
-[Voron Trident Github](https://github.com/VoronDesign/Voron-Trident/tree/main)
-[Voron Trident Design](https://github.com/VoronDesign/Voron-Trident/tree/main/CAD)
-[Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
+**Daksh Tool Changer V2**
+[Daksh Toolchanger github](https://github.com/ankurv2k6/daksh-toolchanger-v2)
 
 **Open Source Scientific Report**
 

@@ -48,16 +48,6 @@ The BOM includes:
 
 ## References
 
-**CB2 Image**
-
-[Disk Image](https://github.com/bigtreetech/CB2/releases)
-
-**Voron 0.2 References**
-
-[Voron 0.2 Github](https://github.com/VoronDesign/Voron-0)
-[Voron 0. Design](https://vorondesign.com/voron0.2)
-[Voron 0.2 Manual](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
-
 **Daksh Tool Changer V2**
 [Daksh Toolchanger github](https://github.com/ankurv2k6/daksh-toolchanger-v2)
 

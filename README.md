@@ -60,3 +60,4 @@ The BOM includes:
 ## Supporters
 
 - **Proundly supported by LDO Motors**
+[LDO Motion](https://ldomotion.com/p/home)

@@ -1,11 +1,11 @@
 # YuChen BioPrinter
 
-**Link to Main Spreadsheets**
+**Link to Main Spreadsheets**  
 [Google Sheets](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing)
 
 ## Overview
 
-This project is a customized **BioPrinter** built on the **Voron 0.2** 3D printer platform. It is designed to perform bio-fabrication tasks such as printing biological materials or tissues. Leveraging the precision and reliability of the Voron design, this bio-printer offers a robust platform for a wide range of bio-printing applications.
+This project is a customized **BioPrinter** built on the **Voron 2.4** 3D printer platform. It is designed to perform bio-fabrication tasks such as printing biological materials or tissues. Leveraging the precision and reliability of the Voron design, this bio-printer offers a robust platform for a wide range of bio-printing applications.
 
 ## Features
 
@@ -19,25 +19,25 @@ This project is a customized **BioPrinter** built on the **Voron 0.2** 3D printe
 For a complete list of components required to build this BioPrinter, refer to the Bill of Materials available in this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing).
 
 The BOM includes:
-- **Customized Voron Trident Frame**: Custom Voron Design Frame
-- **Voron 0.2 Z-Axis Assembly**: Voron 0.2 Z-Axis Assembly
+- **Customized Voron 2.4 Frame**: Custom Voron Design Frame
+- **Voron 2.4 Z-Axis Assembly**: Voron 2.4 Z-Axis Assembly
 - **Custom Bio-Compatible Nozzle**: Designed to handle bio-materials
 - **Climate Control Components**: Sensors, fans, and other components to maintain a controlled printing environment
 - **Electronics**: Microcontroller, stepper motors, and wiring for controlling the printer
 - **Build Plate and Sterilization System**: Removable build plate for easy sterilization
-- **UV toolhead**: UV light toolhead to cure print
+- **UV Toolhead**: UV light toolhead to cure prints  
 [BOM Sheet](https://docs.google.com/spreadsheets/d/188soFzGzhO4Uy-CefZMIBgignTyijYFp2OP5K6e-ZxM/edit?usp=sharing)
-  
+
 ## Requirements
 
-- **Voron 0.2 Kit**: Base frame and motion system of the BioPrinter.
+- **Voron 2.4 Kit**: Base frame and motion system of the BioPrinter.
 - **Custom Nozzle**: A nozzle designed for bio-compatible printing.
 - **Sterile Environment**: The printer should operate in a controlled and clean environment for bio-printing.
 - **Control Software**: Adapted firmware to control the new functionalities (climate control, sterilization cycles).
 
 ## Setup Instructions
 
-1. **Design the Frame First**: Deign it first
+1. **Design the Frame First**: Design it first.
 
 ## Usage
 
@@ -48,16 +48,15 @@ The BOM includes:
 
 ## References
 
-**Daksh Tool Changer V2**
-[Daksh Toolchanger github](https://github.com/ankurv2k6/daksh-toolchanger-v2)
+**Daksh Tool Changer V2**  
+[Daksh Toolchanger GitHub](https://github.com/ankurv2k6/daksh-toolchanger-v2)
 
-**Open Source Scientific Report**
-
+**Open Source Scientific Report**  
 [Open Source Bioprinter by Adam Engberg](https://www.nature.com/articles/s41598-021-00931-1)
 
-[Voron 2.4 Frame/motors/hardware/linear rails](https://www.3dlabtech.ca/product/voron-2-starter-bundle-350mm/)
+[Voron 2.4 Frame/Motors/Hardware/Linear Rails](https://www.3dlabtech.ca/product/voron-2-starter-bundle-350mm/)
 
 ## Supporters
 
-- **Proundly supported by**
+- **Proudly supported by**  
 [LDO Motion](https://ldomotion.com/p/home)

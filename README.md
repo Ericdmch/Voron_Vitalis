@@ -57,6 +57,6 @@ The BOM includes:
 
 [Voron 2.4 Frame/motors/hardware/linear rails](https://www.3dlabtech.ca/product/voron-2-starter-bundle-350mm/)
 
-##Supporters
+## Supporters
 
-**Proundly supported by LDO Motors
+- **Proundly supported by LDO Motors

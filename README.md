@@ -59,4 +59,4 @@ The BOM includes:
 
 ## Supporters
 
-- **Proundly supported by LDO Motors
+- **Proundly supported by LDO Motors**

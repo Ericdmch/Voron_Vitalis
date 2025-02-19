@@ -58,5 +58,4 @@ The BOM includes:
 
 ## Supporters
 
-- **Proudly supported by**  
-[LDO Motion](https://ldomotion.com/p/home)
+- **Proudly supported by** [LDO Motion](https://ldomotion.com/p/home)

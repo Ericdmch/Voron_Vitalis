@@ -56,3 +56,7 @@ The BOM includes:
 [Open Source Bioprinter by Adam Engberg](https://www.nature.com/articles/s41598-021-00931-1)
 
 [Voron 2.4 Frame/motors/hardware/linear rails](https://www.3dlabtech.ca/product/voron-2-starter-bundle-350mm/)
+
+##Supporters
+
+**Proundly supported by LDO Motors

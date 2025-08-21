@@ -61,7 +61,7 @@ The BOM includes:
 ## Supporters
 
 - **Proudly supported by** [LDO Motion](https://ldomotion.com/p/home) and [Ember Prototypes](https://www.emberprototypes.com)
-- <img width="500" height="130" alt="logo-3e19d3aadcfb79093f3dc50154fe2f9b" src="https://github.com/user-attachments/assets/eaa6d49e-ab59-41ab-9106-8c8b194f61df" />
-- <img width="500" height="130" alt="Whitelogo-nobackground png-ezgif com-webp-to-png-converter" src="https://github.com/user-attachments/assets/c568d8b5-8efa-4f02-b2de-db09ec4c56fb" />
+- <img width="500" height="120" alt="logo-3e19d3aadcfb79093f3dc50154fe2f9b" src="https://github.com/user-attachments/assets/eaa6d49e-ab59-41ab-9106-8c8b194f61df" />
+- <img width="500" height="150" alt="Whitelogo-nobackground png-ezgif com-webp-to-png-converter" src="https://github.com/user-attachments/assets/c568d8b5-8efa-4f02-b2de-db09ec4c56fb" />
 
 

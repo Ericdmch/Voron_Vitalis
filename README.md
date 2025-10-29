@@ -35,6 +35,9 @@ The BOM includes:
 - **Sterile Environment**: The printer should operate in a controlled and clean environment for bio-printing.
 - **Control Software**: Adapted firmware to control the new functionalities (climate control, sterilization cycles).
 
+## CAD File
+[Google Drive](https://drive.google.com/drive/folders/1t3ByjUSSbUHJbFBSf0jud0r2-RCQ7WOr?usp=sharing)
+
 ## Setup Instructions
 
 1. **Design the Frame First**: Design it first.

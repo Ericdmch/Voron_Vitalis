@@ -37,7 +37,7 @@ The BOM includes:
 
 ## Google Drive
 [Google Drive](https://drive.google.com/drive/folders/16qfKwxlemoa1IxDVArS9bfp_ugmO_NL0?usp=drive_link)
-[Voron Vitalis CAD](https://drive.google.com/drive/folders/16qfKwxlemoa1IxDVArS9bfp_ugmO_NL0?usp=drive_link)
+[Voron Vitalis CAD](https://drive.google.com/file/d/1OEAgosiyo6S9CeYaMxNo6Nz90X1KycL4/view?usp=sharing)
 ## Setup Instructions
 
 1. **Design the Frame First**: Design it first.

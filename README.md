@@ -37,6 +37,7 @@ The BOM includes:
 
 ## Google Drive
 [Google Drive](https://drive.google.com/drive/folders/16qfKwxlemoa1IxDVArS9bfp_ugmO_NL0?usp=drive_link)
+[Voron Vitalis CAD]([Google Drive](https://drive.google.com/drive/folders/16qfKwxlemoa1IxDVArS9bfp_ugmO_NL0?usp=drive_link))
 
 ## Setup Instructions
 
